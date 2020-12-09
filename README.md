@@ -53,7 +53,7 @@ Running the given project
 
 What to do after program gets executed
 
-  a. It open ups the webcam , wait for the calibration (3 sec).
+  a. It open ups the webcam , wait for the calibration (3 sec) .
   b. place your hand as ‘1’ into the rectangle. It will recognize the numbers as shown 0-5.
   c. whenever we show ‘4’ , the gesture control gets triggered , it open up the browser , triggers google voice search , user speak anything to search , search   gets completed.
   d. This control we have restricted for only working for once to improve gesture control mechanism.
